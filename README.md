@@ -1,4 +1,4 @@
-# askjiggy
+# askjiggy [![askjiggy-publish](https://github.com/jiggyjigsj/askjiggy/actions/workflows/docker-askjiggy-publish.yml/badge.svg)](https://github.com/jiggyjigsj/askjiggy/actions/workflows/docker-askjiggy-publish.yml)
 
 Slack bot to interact with my Kubernetes cluster
 
